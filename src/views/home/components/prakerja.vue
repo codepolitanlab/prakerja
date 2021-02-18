@@ -13,7 +13,7 @@
           <ul class="timeline">
             <li class="timeline-item">
               <div class="timeline-bg pt-3 pb-5">
-                <h5 class="timeline-title type--bold pb-md-3 pb-0">
+                <h5 class="timeline-title type--bold pb-0 align-baseline">
                   Mendaftar di Program Kartu Prakerja
                 </h5>
                 <div class="ml-2 timeline-text pt-0 pb-0">
@@ -23,7 +23,7 @@
                     <li class="mb-0">Minimal Berusia 18 Tahun</li>
                     <li class="mb-0">Sedang tidak menempuh pendidikan Formal</li>
                   </ol>
-                  <p class="mb-0 mt-4">
+                  <p class="mb-0 mt-2">
                     Untuk melakukan pendaftaran pada program Kartu Prakerja, klik tombol berwarna hitam dengan label <b> DAFTAR KARTU PRAKERJA </b> di bawah ini atau kunjungi <span style="color: #14A7A0">www.prakerja.go.id</span> kemudian ikuti langkah-langkah yang diberikan.
                   </p>
                   <b-button variant="dark" class="type--uppercase mt-3 pl-3 pr-3">Daftar kartu prakerja</b-button>
@@ -33,12 +33,12 @@
             </li>
             <li class="timeline-item">
               <div class="timeline-bg pt-3 pb-5">
-                <h5 class="timeline-title type--bold pb-md-3 pb-0">
+                <h5 class="timeline-title type--bold pb-0 align-baseline">
                   Gunakan melalui mitra resmi Codepolitan <span class="hidden-sm hidden-xs"> untuk Kartu Prakerja </span>
                 </h5>
                 <div class="ml-2 timeline-text pt-0 pb-0">
                   <p class="mb-0">Klik logo mitra Codepolitan di bawah ini untuk melanjutkan</p>
-                  <div class="mb-0 mt-4 d-md-flex">
+                  <div class="mb-0 d-md-flex">
                     <img src="@/assets/img/tokopedia.webp" class="mr-md-5 mr-0" height="100" alt="tokopedia">
                     <img src="@/assets/img/Bukalapak-1.webp" class="ml-md-5 ml-0" height="100" alt="bukalapak">
                   </div>
@@ -48,11 +48,11 @@
             </li>
             <li class="timeline-item">
               <div class="timeline-bg pt-3 pb-5">
-                <h5 class="timeline-title type--bold pb-md-3 pb-0">
+                <h5 class="timeline-title type--bold pb-0 align-baseline">
                   Membuat akun di Codepolitan
                 </h5>
                 <div class="ml-2 timeline-text pt-0 pb-0">
-                  <p class="mb-0 mt-4">
+                  <p class="mb-0">
                     Untuk membuat akun Codepolitan, klik tombol hijau dengan label <b> BUAT AKUN CODEPOLITAN </b>di bawah ini atau klik tombol hijau dengan label <b> DAFTAR </b>di kanan atas pada menu utama. Kemudian ikuti langkah-langkah yang diberikan. Bagi kamu yang telah memiliki akun Codepolitan, lakukan login dengan klik tombol putih dengan label <b> MASUK</b> di bawah ini atau dengan cara klik tombol putih dengan label <b> MASUK</b> di kanan atas pada menu utama.
                   </p>
                   <div class="d-md-flex">
@@ -65,11 +65,11 @@
             </li>
             <li class="timeline-item">
               <div class="timeline-bg pt-3 pb-5">
-                <h5 class="timeline-title type--bold pb-md-3 pb-0">
+                <h5 class="timeline-title type--bold pb-0 align-baseline">
                   Aktivasi voucher belajar dari mitra resmi <span class="hidden-sm hidden-xs">Codepolitan</span>
                 </h5>
                 <div class="ml-2 timeline-text pt-0 pb-0">
-                  <p class="mb-0 mt-4">
+                  <p class="mb-0">
                     Lakukan aktivasi voucher dengan cara klik tombol hijau dengan label <b> AKTIVASI VOUCHER</b> di bawah ini atau dengan cara klik menu <b> AKTIVASI VOUCHER</b> pada menu utama yang berada pada navbar atas. Selanjutnya ikuti langkah-langkah yang diberikan.
                   </p>
                   <a class="btn btn-success text-light type--bold type--uppercase mt-3 pl-3 pr-3">Aktivasi Voucher</a>
