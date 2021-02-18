@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7303908eba6393d9bee",
-    "url": "/css/about.bdd6c97d.css"
+    "revision": "76502a357232c586c5fc",
+    "url": "/css/about.08c9ddfd.css"
   },
   {
-    "revision": "a52808fd3082d505fad1",
+    "revision": "36299788288610e04dfa",
     "url": "/css/app.ad3a3bab.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/prakerja-about.b32785a8.webp"
   },
   {
-    "revision": "77b5c714a7d105cc9088a0deb04ec4c1",
-    "url": "/img/prakerja.77b5c714.webp"
+    "revision": "c0cc8a6b7cd77350c17f5666b9316777",
+    "url": "/img/prakerja.c0cc8a6b.webp"
   },
   {
     "revision": "78fa78971693316b924f6b8065680b29",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tokopedia.7ed54399.webp"
   },
   {
-    "revision": "51646803b939c55c02b35b8cae3ed37e",
+    "revision": "a839d970f337c94172bc6bb6ab00df22",
     "url": "/index.html"
   },
   {
-    "revision": "c7303908eba6393d9bee",
-    "url": "/js/about.fd55a816.js"
+    "revision": "76502a357232c586c5fc",
+    "url": "/js/about.343c7bf4.js"
   },
   {
-    "revision": "a52808fd3082d505fad1",
-    "url": "/js/app.3ce2c45c.js"
+    "revision": "36299788288610e04dfa",
+    "url": "/js/app.d856dde0.js"
   },
   {
     "revision": "30d8ef7b0944092a51ff",
